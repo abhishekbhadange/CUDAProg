@@ -15,4 +15,4 @@ the data arrays. With this generation strategy, the program is self-verifiable -
 generated previously should correspond with the result of CUDA program.
 
 In the end, analysis is performed by varying the size of the 3-place tuple set, and changing the block size and thread size 
-parameters of the CUDA card resulting in a total combinations of 28 settings.
+parameters of the CUDA card resulting in a total combination of 28 settings.
